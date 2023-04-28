@@ -9,7 +9,7 @@ const Page = () => {
             </h2>
             <form className="card-body w-full">
                 <label className="label">
-                    <span className="text-base font-medium">Email:</span>
+                    {/* <span className="text-base font-medium">Email:</span> */}
                 </label>
                 <input type="email" placeholder="Enter your email" className="input input-bordered input-ghost input-md w-full mb-2 focus:outline-0" required/>
 

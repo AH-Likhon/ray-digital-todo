@@ -3422,32 +3422,6 @@
         "async": false
       }
     },
-    "(app-client)/./src/app/todo/page.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/app/todo/page.tsx",
-        "name": "*",
-        "chunks": [
-          "app/todo/page:static/chunks/app/todo/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/app/todo/page.tsx",
-        "name": "",
-        "chunks": [
-          "app/todo/page:static/chunks/app/todo/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/app/todo/page.tsx",
-        "name": "default",
-        "chunks": [
-          "app/todo/page:static/chunks/app/todo/page.js"
-        ],
-        "async": false
-      }
-    },
     "(app-client)/./node_modules/next/dist/client/add-locale.js": {
       "*": {
         "id": "(sc_client)/./node_modules/next/dist/client/add-locale.js",
@@ -3604,28 +3578,28 @@
         "async": false
       }
     },
-    "(app-client)/./src/app/register/page.tsx": {
+    "(app-client)/./src/app/todo/page.tsx": {
       "*": {
-        "id": "(sc_client)/./src/app/register/page.tsx",
+        "id": "(sc_client)/./src/app/todo/page.tsx",
         "name": "*",
         "chunks": [
-          "app/register/page:static/chunks/app/register/page.js"
+          "app/todo/page:static/chunks/app/todo/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./src/app/register/page.tsx",
+        "id": "(sc_client)/./src/app/todo/page.tsx",
         "name": "",
         "chunks": [
-          "app/register/page:static/chunks/app/register/page.js"
+          "app/todo/page:static/chunks/app/todo/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./src/app/register/page.tsx",
+        "id": "(sc_client)/./src/app/todo/page.tsx",
         "name": "default",
         "chunks": [
-          "app/register/page:static/chunks/app/register/page.js"
+          "app/todo/page:static/chunks/app/todo/page.js"
         ],
         "async": false
       }
@@ -11078,44 +11052,6 @@
       ],
       "async": false
     },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\src\\app\\globals.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\src\\app\\todo\\page.tsx": {
-      "id": "(app-client)/./src/app/todo/page.tsx",
-      "name": "*",
-      "chunks": [
-        "app/todo/page:static/chunks/app/todo/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\src\\app\\todo\\page.tsx#": {
-      "id": "(app-client)/./src/app/todo/page.tsx",
-      "name": "",
-      "chunks": [
-        "app/todo/page:static/chunks/app/todo/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\src\\app\\todo\\page.tsx#default": {
-      "id": "(app-client)/./src/app/todo/page.tsx",
-      "name": "default",
-      "chunks": [
-        "app/todo/page:static/chunks/app/todo/page.js"
-      ],
-      "async": false
-    },
     "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\add-locale.js": {
       "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
       "name": "*",
@@ -12132,27 +12068,41 @@
       ],
       "async": false
     },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\src\\app\\register\\page.tsx": {
-      "id": "(app-client)/./src/app/register/page.tsx",
-      "name": "*",
-      "chunks": [
-        "app/register/page:static/chunks/app/register/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\src\\app\\register\\page.tsx#": {
-      "id": "(app-client)/./src/app/register/page.tsx",
-      "name": "",
-      "chunks": [
-        "app/register/page:static/chunks/app/register/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\src\\app\\register\\page.tsx#default": {
-      "id": "(app-client)/./src/app/register/page.tsx",
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\src\\app\\globals.css#": {
+      "id": "null",
       "name": "default",
       "chunks": [
-        "app/register/page:static/chunks/app/register/page.js"
+        "static/css/app/layout.css"
+      ]
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\src\\app\\todo\\page.tsx": {
+      "id": "(app-client)/./src/app/todo/page.tsx",
+      "name": "*",
+      "chunks": [
+        "app/todo/page:static/chunks/app/todo/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\src\\app\\todo\\page.tsx#": {
+      "id": "(app-client)/./src/app/todo/page.tsx",
+      "name": "",
+      "chunks": [
+        "app/todo/page:static/chunks/app/todo/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\src\\app\\todo\\page.tsx#default": {
+      "id": "(app-client)/./src/app/todo/page.tsx",
+      "name": "default",
+      "chunks": [
+        "app/todo/page:static/chunks/app/todo/page.js"
       ],
       "async": false
     }

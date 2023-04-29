@@ -8,7 +8,8 @@ require('dotenv').config();
 
 const port = process.env.PORT || 5000;
 
-const routes = require('./routes/routes');
+const authRouter = require('./routes/authRoutes');
+const todoRouter = require('./routes/todoRoutes');
 
 
 //middleware
@@ -29,7 +30,8 @@ mongoose.connect(`${process.env.DB}`, options)
         console.log('Connected to Mongoose')
     });
 
-app.use('/api', routes);
+app.use('/api', authRouter);
+app.use('/api', todoRouter);
 
 
 app.listen(port, () => {

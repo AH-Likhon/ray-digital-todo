@@ -20,8 +20,21 @@ router.delete('/:id', async (req, res) => {
     } else {
         await Todo.deleteOne({ _id: req.params.id });
         res.status(200).send({
-            message: 'Successfully deleted this todo👍'
+            message: `Successfully deleted ${todo.todoText} todo👍`
         });
+    }
+})
+
+//! Get SPecific Id data
+router.get('/todo/:id', async (req, res) => {
+    const todo = await Todo.findById(req.params.id);
+
+    if (!todo) {
+        return res.status(404).send({
+            message: 'This todo is not found😥'
+        })
+    } else {
+        res.status(200).send(todo);
     }
 })
 

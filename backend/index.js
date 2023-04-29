@@ -15,7 +15,7 @@ const routes = require('./routes/routes');
 app.use(cookieParser());
 app.use(cors({
     credentials: true,
-    origin: ['http://localhost:3000/']
+    origin: ['http://localhost:3000']
 }));
 app.use(express.json());
 

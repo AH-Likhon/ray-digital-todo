@@ -103,7 +103,7 @@ const Page = () => {
     return (
         <>
             <div 
-                className='w-3/4 md:w-1/2 bg-base-100 absolute top-8 left-14 md:left-1/4 p-6 relative'
+                className='w-3/4 md:w-1/2 bg-base-100 absolute top-8 left-14 md:left-1/4 p-6'
             >
                 <h2 className='text-center text-2xl font-semibold'>
                     Todo List

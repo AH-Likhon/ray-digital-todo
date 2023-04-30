@@ -18,17 +18,17 @@ const Page = () => {
     const handleOnSubmit = (e:any) => {
         e.preventDefault();
 
-        console.log('value::', userData);
+        // console.log('value::', userData);
 
         axios.post(
         'http://localhost:5000/api/register', userData )
-        .then(function (response) {
-            console.log(response.data)
+        .then((res) => {
+            // console.log(response.data)
             toast.success("Successfully registered");
             router.push('/login');
         })
         .catch(function (error) {
-            console.log(error)
+            // console.log(error)
             toast.error(error.response.data.message);
         })
     }
@@ -49,7 +49,7 @@ const Page = () => {
     }
 
     return (
-        <div className='card w-1/2 bg-base-100 shadow shadow-gray-100 absolute top-8 left-1/4 border rounded-lg p-6'>
+        <div className='card  w-3/4 md:w-1/2 bg-base-100 shadow shadow-gray-100 absolute top-10 left-14 md:left-1/4 border rounded-lg px-2 py-4 m:py-6 m:px-6'>
             <h2 className='text-center text-2xl font-semibold'>
                 SignUp
             </h2>

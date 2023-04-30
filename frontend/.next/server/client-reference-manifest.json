@@ -1755,7 +1755,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/add-base-path.js",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/login/page:static/chunks/app/login/page.js"
         ],
         "async": false
       },
@@ -1763,7 +1763,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/add-base-path.js",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/login/page:static/chunks/app/login/page.js"
         ],
         "async": false
       },
@@ -1771,7 +1771,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/add-base-path.js",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/login/page:static/chunks/app/login/page.js"
         ],
         "async": false
       }
@@ -3401,7 +3401,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/normalize-trailing-slash.js",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/login/page:static/chunks/app/login/page.js"
         ],
         "async": false
       },
@@ -3409,7 +3409,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/normalize-trailing-slash.js",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/login/page:static/chunks/app/login/page.js"
         ],
         "async": false
       },
@@ -3417,7 +3417,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/normalize-trailing-slash.js",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/login/page:static/chunks/app/login/page.js"
         ],
         "async": false
       }
@@ -3427,7 +3427,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/add-locale.js",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/login/page:static/chunks/app/login/page.js"
         ],
         "async": false
       },
@@ -3435,7 +3435,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/add-locale.js",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/login/page:static/chunks/app/login/page.js"
         ],
         "async": false
       },
@@ -3443,7 +3443,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/add-locale.js",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/login/page:static/chunks/app/login/page.js"
         ],
         "async": false
       }
@@ -3453,7 +3453,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/get-domain-locale.js",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/login/page:static/chunks/app/login/page.js"
         ],
         "async": false
       },
@@ -3461,7 +3461,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/get-domain-locale.js",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/login/page:static/chunks/app/login/page.js"
         ],
         "async": false
       },
@@ -3469,7 +3469,33 @@
         "id": "(sc_client)/./node_modules/next/dist/client/get-domain-locale.js",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/login/page:static/chunks/app/login/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/has-base-path.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/has-base-path.js",
+        "name": "*",
+        "chunks": [
+          "app/login/page:static/chunks/app/login/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/has-base-path.js",
+        "name": "",
+        "chunks": [
+          "app/login/page:static/chunks/app/login/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/has-base-path.js",
+        "name": "default",
+        "chunks": [
+          "app/login/page:static/chunks/app/login/page.js"
         ],
         "async": false
       }
@@ -3479,7 +3505,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/login/page:static/chunks/app/login/page.js"
         ],
         "async": false
       },
@@ -3487,7 +3513,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/login/page:static/chunks/app/login/page.js"
         ],
         "async": false
       },
@@ -3495,7 +3521,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/login/page:static/chunks/app/login/page.js"
         ],
         "async": false
       }
@@ -3505,7 +3531,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/request-idle-callback.js",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/login/page:static/chunks/app/login/page.js"
         ],
         "async": false
       },
@@ -3513,7 +3539,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/request-idle-callback.js",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/login/page:static/chunks/app/login/page.js"
         ],
         "async": false
       },
@@ -3521,7 +3547,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/request-idle-callback.js",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/login/page:static/chunks/app/login/page.js"
         ],
         "async": false
       }
@@ -3531,7 +3557,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/use-intersection.js",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/login/page:static/chunks/app/login/page.js"
         ],
         "async": false
       },
@@ -3539,7 +3565,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/use-intersection.js",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/login/page:static/chunks/app/login/page.js"
         ],
         "async": false
       },
@@ -3547,7 +3573,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/use-intersection.js",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/login/page:static/chunks/app/login/page.js"
         ],
         "async": false
       }
@@ -3557,7 +3583,7 @@
         "id": "(sc_client)/./src/app/login/page.tsx",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/login/page:static/chunks/app/login/page.js"
         ],
         "async": false
       },
@@ -3565,7 +3591,7 @@
         "id": "(sc_client)/./src/app/login/page.tsx",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/login/page:static/chunks/app/login/page.js"
         ],
         "async": false
       },
@@ -3573,7 +3599,33 @@
         "id": "(sc_client)/./src/app/login/page.tsx",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/login/page:static/chunks/app/login/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/register/page.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/register/page.tsx",
+        "name": "*",
+        "chunks": [
+          "app/register/page:static/chunks/app/register/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/register/page.tsx",
+        "name": "",
+        "chunks": [
+          "app/register/page:static/chunks/app/register/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/register/page.tsx",
+        "name": "default",
+        "chunks": [
+          "app/register/page:static/chunks/app/register/page.js"
         ],
         "async": false
       }
@@ -7424,7 +7476,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/add-base-path.js",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/login/page:static/chunks/app/login/page.js"
       ],
       "async": false
     },
@@ -7432,7 +7484,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/add-base-path.js",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/login/page:static/chunks/app/login/page.js"
       ],
       "async": false
     },
@@ -7440,7 +7492,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/add-base-path.js",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/login/page:static/chunks/app/login/page.js"
       ],
       "async": false
     },
@@ -7448,7 +7500,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/add-base-path.js",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/login/page:static/chunks/app/login/page.js"
       ],
       "async": false
     },
@@ -7456,7 +7508,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/add-base-path.js",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/login/page:static/chunks/app/login/page.js"
       ],
       "async": false
     },
@@ -7464,7 +7516,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/add-base-path.js",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/login/page:static/chunks/app/login/page.js"
       ],
       "async": false
     },
@@ -10592,7 +10644,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/normalize-trailing-slash.js",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/login/page:static/chunks/app/login/page.js"
       ],
       "async": false
     },
@@ -10600,7 +10652,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/normalize-trailing-slash.js",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/login/page:static/chunks/app/login/page.js"
       ],
       "async": false
     },
@@ -10608,7 +10660,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/normalize-trailing-slash.js",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/login/page:static/chunks/app/login/page.js"
       ],
       "async": false
     },
@@ -10616,7 +10668,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/normalize-trailing-slash.js",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/login/page:static/chunks/app/login/page.js"
       ],
       "async": false
     },
@@ -10624,7 +10676,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/normalize-trailing-slash.js",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/login/page:static/chunks/app/login/page.js"
       ],
       "async": false
     },
@@ -10632,7 +10684,7 @@
       "id": "(app-client)/./node_modules/next/dist/client/normalize-trailing-slash.js",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/login/page:static/chunks/app/login/page.js"
       ],
       "async": false
     },
@@ -10704,7 +10756,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/add-path-prefix.js",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/login/page:static/chunks/app/login/page.js"
       ],
       "async": false
     },
@@ -10712,7 +10764,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/add-path-prefix.js",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/login/page:static/chunks/app/login/page.js"
       ],
       "async": false
     },
@@ -10720,7 +10772,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/add-path-prefix.js",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/login/page:static/chunks/app/login/page.js"
       ],
       "async": false
     },
@@ -10728,7 +10780,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/add-path-prefix.js",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/login/page:static/chunks/app/login/page.js"
       ],
       "async": false
     },
@@ -10736,7 +10788,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/add-path-prefix.js",
       "name": "__esModule",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/login/page:static/chunks/app/login/page.js"
       ],
       "async": false
     },
@@ -10744,7 +10796,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/add-path-prefix.js",
       "name": "__esModule",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/login/page:static/chunks/app/login/page.js"
       ],
       "async": false
     },
@@ -10752,7 +10804,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/add-path-prefix.js",
       "name": "addPathPrefix",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/login/page:static/chunks/app/login/page.js"
       ],
       "async": false
     },
@@ -10760,7 +10812,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/add-path-prefix.js",
       "name": "addPathPrefix",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/login/page:static/chunks/app/login/page.js"
       ],
       "async": false
     },
@@ -10928,7 +10980,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/parse-path.js",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/login/page:static/chunks/app/login/page.js"
       ],
       "async": false
     },
@@ -10936,7 +10988,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/parse-path.js",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/login/page:static/chunks/app/login/page.js"
       ],
       "async": false
     },
@@ -10944,7 +10996,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/parse-path.js",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/login/page:static/chunks/app/login/page.js"
       ],
       "async": false
     },
@@ -10952,7 +11004,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/parse-path.js",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/login/page:static/chunks/app/login/page.js"
       ],
       "async": false
     },
@@ -10960,7 +11012,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/parse-path.js",
       "name": "__esModule",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/login/page:static/chunks/app/login/page.js"
       ],
       "async": false
     },
@@ -10968,7 +11020,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/parse-path.js",
       "name": "__esModule",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/login/page:static/chunks/app/login/page.js"
       ],
       "async": false
     },
@@ -10976,7 +11028,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/parse-path.js",
       "name": "parsePath",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/login/page:static/chunks/app/login/page.js"
       ],
       "async": false
     },
@@ -10984,7 +11036,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/parse-path.js",
       "name": "parsePath",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/login/page:static/chunks/app/login/page.js"
       ],
       "async": false
     },
@@ -10992,7 +11044,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/remove-trailing-slash.js",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/login/page:static/chunks/app/login/page.js"
       ],
       "async": false
     },
@@ -11000,7 +11052,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/remove-trailing-slash.js",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/login/page:static/chunks/app/login/page.js"
       ],
       "async": false
     },
@@ -11008,7 +11060,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/remove-trailing-slash.js",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/login/page:static/chunks/app/login/page.js"
       ],
       "async": false
     },
@@ -11016,7 +11068,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/remove-trailing-slash.js",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/login/page:static/chunks/app/login/page.js"
       ],
       "async": false
     },
@@ -11024,7 +11076,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/remove-trailing-slash.js",
       "name": "__esModule",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/login/page:static/chunks/app/login/page.js"
       ],
       "async": false
     },
@@ -11032,7 +11084,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/remove-trailing-slash.js",
       "name": "__esModule",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/login/page:static/chunks/app/login/page.js"
       ],
       "async": false
     },
@@ -11040,7 +11092,7 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/remove-trailing-slash.js",
       "name": "removeTrailingSlash",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/login/page:static/chunks/app/login/page.js"
       ],
       "async": false
     },
@@ -11048,7 +11100,1023 @@
       "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/remove-trailing-slash.js",
       "name": "removeTrailingSlash",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\add-locale.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\client\\add-locale.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\add-locale.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\client\\add-locale.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\add-locale.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
+      "name": "default",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\client\\add-locale.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
+      "name": "default",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\get-domain-locale.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\client\\get-domain-locale.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\get-domain-locale.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\client\\get-domain-locale.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\get-domain-locale.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
+      "name": "default",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\client\\get-domain-locale.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
+      "name": "default",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\has-base-path.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\client\\has-base-path.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\has-base-path.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\client\\has-base-path.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\has-base-path.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
+      "name": "default",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\client\\has-base-path.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
+      "name": "default",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\client\\link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\link.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\client\\link.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\link.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\client\\link.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\request-idle-callback.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\client\\request-idle-callback.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\request-idle-callback.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\client\\request-idle-callback.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\request-idle-callback.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
+      "name": "default",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\client\\request-idle-callback.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
+      "name": "default",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\use-intersection.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\client\\use-intersection.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\use-intersection.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\client\\use-intersection.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\use-intersection.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
+      "name": "default",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\client\\use-intersection.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
+      "name": "default",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\escape-regexp.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\escape-regexp.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\escape-regexp.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\escape-regexp.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\escape-regexp.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\escape-regexp.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\escape-regexp.js#escapeStringRegexp": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
+      "name": "escapeStringRegexp",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\escape-regexp.js#escapeStringRegexp": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
+      "name": "escapeStringRegexp",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router-context.js#RouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
+      "name": "RouterContext",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router-context.js#RouterContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
+      "name": "RouterContext",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router-context.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router-context.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\format-url.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\format-url.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\format-url.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\format-url.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\interpolate-as.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\interpolate-as.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\interpolate-as.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\interpolate-as.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\interpolate-as.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\interpolate-as.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\interpolate-as.js#interpolateAs": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
+      "name": "interpolateAs",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\interpolate-as.js#interpolateAs": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
+      "name": "interpolateAs",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-dynamic.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-dynamic.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-dynamic.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-dynamic.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-dynamic.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-dynamic.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-dynamic.js#isDynamicRoute": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
+      "name": "isDynamicRoute",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-dynamic.js#isDynamicRoute": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
+      "name": "isDynamicRoute",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-local-url.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-local-url.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-local-url.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-local-url.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-local-url.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-local-url.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-local-url.js#isLocalURL": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
+      "name": "isLocalURL",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-local-url.js#isLocalURL": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
+      "name": "isLocalURL",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\omit.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\omit.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\omit.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\omit.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\omit.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\omit.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\omit.js#omit": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
+      "name": "omit",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\omit.js#omit": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
+      "name": "omit",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\path-has-prefix.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\path-has-prefix.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\path-has-prefix.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\path-has-prefix.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\path-has-prefix.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\path-has-prefix.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\path-has-prefix.js#pathHasPrefix": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
+      "name": "pathHasPrefix",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\path-has-prefix.js#pathHasPrefix": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
+      "name": "pathHasPrefix",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\querystring.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\querystring.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\querystring.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\querystring.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\resolve-href.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\resolve-href.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\resolve-href.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\resolve-href.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\resolve-href.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\resolve-href.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\resolve-href.js#resolveHref": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
+      "name": "resolveHref",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\resolve-href.js#resolveHref": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
+      "name": "resolveHref",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\route-matcher.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\route-matcher.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\route-matcher.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\route-matcher.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\route-matcher.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\route-matcher.js#__esModule": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
+      "name": "__esModule",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\route-matcher.js#getRouteMatcher": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
+      "name": "getRouteMatcher",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\route-matcher.js#getRouteMatcher": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
+      "name": "getRouteMatcher",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\route-regex.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\route-regex.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\route-regex.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\route-regex.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\utils.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\utils.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\utils.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\utils.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\src\\app\\login\\page.tsx": {
+      "id": "(app-client)/./src/app/login/page.tsx",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\src\\app\\login\\page.tsx#": {
+      "id": "(app-client)/./src/app/login/page.tsx",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\src\\app\\login\\page.tsx#default": {
+      "id": "(app-client)/./src/app/login/page.tsx",
+      "name": "default",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
       ],
       "async": false
     },
@@ -11066,1019 +12134,27 @@
         "static/css/app/layout.css"
       ]
     },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\add-locale.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\src\\app\\register\\page.tsx": {
+      "id": "(app-client)/./src/app/register/page.tsx",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/register/page:static/chunks/app/register/page.js"
       ],
       "async": false
     },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\client\\add-locale.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\add-locale.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\src\\app\\register\\page.tsx#": {
+      "id": "(app-client)/./src/app/register/page.tsx",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/register/page:static/chunks/app/register/page.js"
       ],
       "async": false
     },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\client\\add-locale.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\add-locale.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
+    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\src\\app\\register\\page.tsx#default": {
+      "id": "(app-client)/./src/app/register/page.tsx",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\client\\add-locale.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/add-locale.js",
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\get-domain-locale.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\client\\get-domain-locale.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\get-domain-locale.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\client\\get-domain-locale.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\get-domain-locale.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\client\\get-domain-locale.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/get-domain-locale.js",
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\has-base-path.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\client\\has-base-path.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\has-base-path.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\client\\has-base-path.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\has-base-path.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\client\\has-base-path.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/has-base-path.js",
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\link.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\client\\link.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\link.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\client\\link.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\link.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\client\\link.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\request-idle-callback.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\client\\request-idle-callback.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\request-idle-callback.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\client\\request-idle-callback.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\request-idle-callback.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\client\\request-idle-callback.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/request-idle-callback.js",
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\use-intersection.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\client\\use-intersection.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\use-intersection.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\client\\use-intersection.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\client\\use-intersection.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\client\\use-intersection.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/use-intersection.js",
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\escape-regexp.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\escape-regexp.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\escape-regexp.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\escape-regexp.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\escape-regexp.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\escape-regexp.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\escape-regexp.js#escapeStringRegexp": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
-      "name": "escapeStringRegexp",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\escape-regexp.js#escapeStringRegexp": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/escape-regexp.js",
-      "name": "escapeStringRegexp",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router-context.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router-context.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router-context.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router-context.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router-context.js#RouterContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
-      "name": "RouterContext",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router-context.js#RouterContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
-      "name": "RouterContext",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router-context.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router-context.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router-context.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\format-url.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\format-url.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\format-url.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\format-url.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/format-url.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\interpolate-as.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\interpolate-as.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\interpolate-as.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\interpolate-as.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\interpolate-as.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\interpolate-as.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\interpolate-as.js#interpolateAs": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
-      "name": "interpolateAs",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\interpolate-as.js#interpolateAs": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/interpolate-as.js",
-      "name": "interpolateAs",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-dynamic.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-dynamic.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-dynamic.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-dynamic.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-dynamic.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-dynamic.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-dynamic.js#isDynamicRoute": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
-      "name": "isDynamicRoute",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-dynamic.js#isDynamicRoute": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-dynamic.js",
-      "name": "isDynamicRoute",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-local-url.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-local-url.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-local-url.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-local-url.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-local-url.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-local-url.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\is-local-url.js#isLocalURL": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
-      "name": "isLocalURL",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\is-local-url.js#isLocalURL": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/is-local-url.js",
-      "name": "isLocalURL",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\omit.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\omit.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\omit.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\omit.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\omit.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\omit.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\omit.js#omit": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
-      "name": "omit",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\omit.js#omit": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/omit.js",
-      "name": "omit",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\path-has-prefix.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\path-has-prefix.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\path-has-prefix.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\path-has-prefix.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\path-has-prefix.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\path-has-prefix.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\path-has-prefix.js#pathHasPrefix": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
-      "name": "pathHasPrefix",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\path-has-prefix.js#pathHasPrefix": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/path-has-prefix.js",
-      "name": "pathHasPrefix",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\querystring.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\querystring.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\querystring.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\querystring.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/querystring.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\resolve-href.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\resolve-href.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\resolve-href.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\resolve-href.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\resolve-href.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\resolve-href.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\resolve-href.js#resolveHref": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
-      "name": "resolveHref",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\resolve-href.js#resolveHref": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/resolve-href.js",
-      "name": "resolveHref",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\route-matcher.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\route-matcher.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\route-matcher.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\route-matcher.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\route-matcher.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\route-matcher.js#__esModule": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
-      "name": "__esModule",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\route-matcher.js#getRouteMatcher": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
-      "name": "getRouteMatcher",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\route-matcher.js#getRouteMatcher": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-matcher.js",
-      "name": "getRouteMatcher",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\route-regex.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\route-regex.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\router\\utils\\route-regex.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\router\\utils\\route-regex.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/router/utils/route-regex.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\utils.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\utils.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\shared\\lib\\utils.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\node_modules\\next\\dist\\esm\\shared\\lib\\utils.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/utils.js",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\src\\app\\login\\page.tsx": {
-      "id": "(app-client)/./src/app/login/page.tsx",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\src\\app\\login\\page.tsx#": {
-      "id": "(app-client)/./src/app/login/page.tsx",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "F:\\E\\01-Javascript 2021\\01- Jankar Mahbub\\Company Task\\Ray Digital\\todo\\frontend\\src\\app\\login\\page.tsx#default": {
-      "id": "(app-client)/./src/app/login/page.tsx",
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/register/page:static/chunks/app/register/page.js"
       ],
       "async": false
     },

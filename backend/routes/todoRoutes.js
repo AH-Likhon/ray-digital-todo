@@ -41,7 +41,7 @@ router.get('/todo/:id', async (req, res) => {
 
 //! Get  All Todos API
 router.get('/todos', async (req, res) => {
-    const todos = await Todo.find();
+    const todos = await Todo.find({ email: req.query.email });
     console.log('ALL data', todos);
     res.status(200).send(todos);
 })

@@ -4,7 +4,11 @@ const todoScheme = new mongoose.Schema({
     todoText: {
         type: String,
         required: true,
-    }
+    },
+    email: {
+        type: String,
+        required: true
+    },
 })
 
 module.exports = mongoose.model('Todo', todoScheme);

@@ -1,10 +1,9 @@
 import { NextResponse } from "next/server";
-import Cookies from "js-cookie";
 import type { NextRequest } from 'next/server'
 
 export default function middleware(req: NextRequest){
     // const verify = Cookies.get("loggedin");
-    let verify = req.cookies.get("loggedin");
+    let verify:any = req.cookies.get("loggedin");
     let url = req.url;
     
     if (verify && url === "http://localhost:3000/") {
